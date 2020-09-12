@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Strapi" width="26px" src="https://avatars3.githubusercontent.com/u/19872173?s=200&v=4.png" />
 <img align="left" alt="Vercel" width="26px" src="https://avatars1.githubusercontent.com/u/14985020?s=200&v=4.png" />
 <img align="left" alt="Netlify" width="26px" src="https://avatars0.githubusercontent.com/u/7892489?s=200&v=4.png" />
+<img align="left" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/vercel/next.js/canary/examples/cms-strapi/public/favicon/favicon.ico" />
 
 
 <!-- <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" /> 
