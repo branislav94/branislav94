@@ -1,5 +1,4 @@
 ### Hi there 👋 ![Image of Yaktocat](https://github.githubassets.com/images/mona-whisper.gif)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 <!--
