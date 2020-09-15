@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Vercel" width="26px" src="https://avatars1.githubusercontent.com/u/14985020?s=200&v=4.png" />
 <img align="left" alt="Netlify" width="26px" src="https://avatars0.githubusercontent.com/u/7892489?s=200&v=4.png" />
 <img align="left" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/vercel/next.js/canary/examples/cms-strapi/public/favicon/favicon.ico" />
-<img align="left" alt="AMP" width="30px" src="https://raw.githubusercontent.com/branislav94/branislav94/5b1b92bbacea021773d469c97a2c7a40a0077507/icons/AMP-Brand-Blue-Icon.svg" />
+<img align="left" alt="AMP" src="https://raw.githubusercontent.com/branislav94/branislav94/5b1b92bbacea021773d469c97a2c7a40a0077507/icons/AMP-Brand-Blue-Icon.svg" />
 <img align="left" alt="PWA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" />
 
 
